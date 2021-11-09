@@ -1,5 +1,5 @@
 ## Hola, soy Berta Minguela
-<p>Actualmente soy técnico de soporte informático en <a target="_blank" href="https://www.saludcastillayleon.es/es">Sacyl</a></p>
+<p>Actualmente soy técnico de soporte informático en <a href="https://www.saludcastillayleon.es/es" target="_blank">Sacyl</a></p>
 
 ## Colaboraciones con diferentes comunidades tecnológicas
 <p>Miembro de la Comunidad <a href="https://es.wordpress.org/">WordPress España</a>
